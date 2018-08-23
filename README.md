@@ -30,4 +30,4 @@ run the script written by
 
 See Detailed Syntaxes in
 
-Documentation.md
+[Documentation.md](https://github.com/mclt0568/YTScript/blob/master/Documentation.md)
