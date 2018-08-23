@@ -18,12 +18,19 @@ Get it by
 ###  Start Writting
 
 Create a new file with any text editor
+
 Write YTScript Syntax in it
+
 Download the YTScript.py File, use Python to run it:
+
 `python YTScript.py`
+
 and init it by entering
+
 `init`
+
 run the script written by
+
 `script 'File Name'`
 
 ### Syntaxes
