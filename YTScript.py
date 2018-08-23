@@ -1,17 +1,4 @@
 # -*- coding: utf-8 -*-
-#
-#Licence of use
-#
-#	-	Created by Frankie Zhao Xuan Ao in Augest 2018
-#	-	Licence to change, duplicate and republish
-#		without the permission of author
-#	-	Not permitted to republish the changed
-#		version under the name of the author
-#
-#Yes its BETA so its Buggy
-#Current Version : Beta 1.2
-#Befor use, need to install the following packages using pip: Pygments, colored, typing
-#
 import time,os,re,getpass,platform,sys
 from colored import fg,bg,attr
 from pygments import highlight
