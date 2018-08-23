@@ -452,13 +452,13 @@ output:
 >The hello world
 ```
 init
-output hello, world
+output 'hello, world'
 ```
 or
 ```
 init
 setmode output std
-output hello, world
+output 'hello, world'
 outputnl
 ```
 output:
