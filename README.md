@@ -1,4 +1,7 @@
 # YTScript
+### What is YTScript
+It is a simple script language that does simple calculation written by Python3.
+
 ###  To get started
 > Software Needed
 
