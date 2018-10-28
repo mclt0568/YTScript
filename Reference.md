@@ -1,4 +1,4 @@
-# Documentation
+# Reference and Examples
 
 Syntaxes of YTScript, behivour will be explained in this md file.
 
