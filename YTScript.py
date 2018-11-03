@@ -111,12 +111,8 @@ class mode:
 			ct.error("Unknow Mode: Runmode")
 	def setoutput(optype="print"):
 		global outputtype
-		if optype == "print":
+		if optype in ("print","null","std"):
 			outputtype = "print"
-		elif optype == "null":
-			outputtype = "null"
-		elif optype == "std":
-			outputtype = "std"
 		else:
 			outputtype = "print"
 class ct:
